@@ -1,4 +1,4 @@
-(defproject com.gfredericks/lein-merge-services "1.0.0-SNAPSHOT"
+(defproject com.gfredericks/lein-merge-services "1.0.0"
   :description "Leiningen plugin that merges /META-INF/services files during uberjar."
   :url "http://github.com/fredericksgary/lein-merge-services"
   :license {:name "Eclipse Public License"
