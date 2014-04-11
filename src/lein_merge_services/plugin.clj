@@ -1,4 +1,4 @@
-(defn lein-merge-services.plugin)
+(ns lein-merge-services.plugin)
 
 (defn middleware
   [project]
